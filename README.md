@@ -7,4 +7,7 @@ OpenCore, ChromeOS, rEFInd Boot Manager
 ## 2. ChromeOS boot files for dualboot Windows
 - Use with rEFInd Boot Manager
 - Note: Edit the boot path in the grub.cfg file of Chrome boot
-### rEFInd Boot Manager, link https://github.com/voduong404/rEFInd-All-Themes/releases/tag/%23rEFInd-themes
+## 3. rEFInd Boot Manager 
+- The version I edited is available for download 
+#### Original here: https://sourceforge.net/projects/refind/ 
+#### Or download more here: https://github.com/voduong404/rEFInd-All-Themes/releases/tag/%23rEFInd-themes
